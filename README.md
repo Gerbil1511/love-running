@@ -3,7 +3,7 @@
 
 # Love Running
 
-![Developer Portfolio Example - Project Banner](/dev-portfolio.png)
+![Developer Portfolio Example - Project Banner](/love-running.png)
 
 
 ## Introduction 
